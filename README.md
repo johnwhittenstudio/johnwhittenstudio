@@ -1,13 +1,21 @@
-# Hello! I'm John Whitten ✨🐢
-## I'm an artist, designer, educator, and web developer. 
-### About me
+# **Hello! I'm John Whitten** ✨🐢
+
+## I'm an artist, designer, educator, and web developer.
+
+### **About me**
+
 #### ☔ Currently living in Portland, Oregon<br>
+
 #### 📸 Creative with a background in visual art<br>
+
 #### 🏕️ Lover of all things outdoors<br>
+
 #### 😺 Husband and cat dad<br>
 
 ### I’m enrolled in a web and mobile app certificate program through <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
-### Coding skills:
+
+### **Coding skills:**
+
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -24,8 +32,7 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>
 
-
-### Software skills:
+### **Software skills:**
 
 <a><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/></a>
 <a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/></a>
@@ -42,14 +49,13 @@
 <a><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
 
-
-### To get in touch:
+### **To get in touch:**
 
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-### Coding stats:
+### **Coding stats:**
+
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=tokyonight" /><br>
-
