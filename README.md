@@ -50,6 +50,6 @@
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ### Coding stats:
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=tokyonight" /><br>
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
+<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=tokyonight" /><br>
 
