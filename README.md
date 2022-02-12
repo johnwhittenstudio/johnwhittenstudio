@@ -1,6 +1,6 @@
 # Hello! I'm John (he/him) ✨🐢
 ## I'm an artist, designer, educator, and web developer. 
-### ♉ About me
+### About me
 ☔ Currently living in Portland, Oregon<br>
 📸 Creative with a background in visual art<br>
 🏕️ Lover of all things outdoors<br>
@@ -15,11 +15,12 @@
 • jQuery<br>
 • Bootstrap<br>
 
-## 📨 Contact
+### 📨 To get in touch:
 
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
+### 📊 Coding stats:
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=dark" />
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=dark" /><br>
 
