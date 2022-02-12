@@ -24,5 +24,5 @@
 
 ### 📊 Coding Stats
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=dark" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=dark" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=light" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=light" />
