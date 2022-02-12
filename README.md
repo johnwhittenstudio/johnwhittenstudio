@@ -20,6 +20,6 @@
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=dark" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=dark" /><br>
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=dark" />
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=dark" /><br>
 
