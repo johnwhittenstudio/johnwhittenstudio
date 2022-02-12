@@ -1,5 +1,5 @@
 # Hello! I'm John ✨🐢
-## I'm an artist , designer , educator , and web developer . 
+## I'm an artist, designer, educator, and web developer. 
 ### ♉ About me
 ☔ Currently living in Portland, Oregon<br>
 📸 Creative with a background in visual art<br>
