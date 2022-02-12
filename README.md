@@ -1,10 +1,10 @@
 # Hello! I'm John ✨🐢
 ## I'm an artist, designer, educator, and web developer. 
 ### About me
-☔ Currently living in Portland, Oregon
-📸 Creative with a background in visual art
-🏕️ Lover of all things outdoors
-😺 Husband and cat dad 
+☔ Currently living in Portland, Oregon<br>
+📸 Creative with a background in visual art<br>
+🏕️ Lover of all things outdoors<br>
+😺 Husband and cat dad<br>
 
 ### 🛠 Skill Set
 
@@ -24,6 +24,3 @@
 
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true" />
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact" />
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
