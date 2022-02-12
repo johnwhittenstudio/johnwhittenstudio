@@ -8,13 +8,13 @@
 
 ### 🛠 Skill Set
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=white)
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
@@ -22,8 +22,5 @@
 
 ### 📈 Some Fun Stats
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true" />
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact" />
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact" />
