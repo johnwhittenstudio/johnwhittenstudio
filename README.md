@@ -9,7 +9,7 @@
 <a><img src="https://img.shields.io/badge/GIT-1f212b?style=for-the-badge&logo=git&logoColor=E44C30"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-1f212b?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-1f212b?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-1f212b?style=for-the-badge&logo=javascript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-1f212b?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
 <a><img src="https://img.shields.io/badge/Jest-1f212b?style=for-the-badge&logo=jest&logoColor=C21325"/></a>
 <a><img src="https://img.shields.io/badge/json-1f212b?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
 <a><img src="https://img.shields.io/badge/jQuery-1f212b?style=for-the-badge&logo=jquery&logoColor=0769AD"/></a>
