@@ -2,7 +2,7 @@
 
 ## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
 
-### **Coding skills:**
+## **Coding skills:**
 
 <a><img src="https://img.shields.io/badge/C%23-1f212b?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1f212b?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
@@ -20,7 +20,7 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-1f212b?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-1f212b?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
-### **Software skills:**
+## **Software skills:**
 
 <a><img src="https://img.shields.io/badge/Adobe%20after%20affects-1f212b?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD"/></a>
 <a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-1f212b?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26"/></a>
@@ -37,13 +37,13 @@
 <a><img src="https://img.shields.io/badge/Sketch-1f212b?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-1f212b?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
 
-### **To get in touch:**
+## **To get in touch:**
 
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1f212b?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-1f212b?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-1f212b?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
-### **Coding stats:**
+## **Coding stats:**
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=tokyonight" /><br>
