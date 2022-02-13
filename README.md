@@ -30,7 +30,7 @@
 <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-1f212b?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1f212b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Audacity-1f212b?style=for-the-badge&logo=audacity&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/blender-1f212b?style=for-the-badge&logo=blender&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Discord-1f212b?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Google%20Meet-1f212b?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/mac%20os-1f212b?style=for-the-badge&logo=apple&logoColor=white"/></a>
