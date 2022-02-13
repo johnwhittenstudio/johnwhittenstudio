@@ -22,20 +22,20 @@
 
 ### **Software skills:**
 
-<a><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20after%20affects-1f212b?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-1f212b?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20Illustrator-1f212b?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20InDesign-1f212b?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20Lightroom-1f212b?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20Photoshop-1f212b?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1f212b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Audacity-1f212b?style=for-the-badge&logo=audacity&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Discord-1f212b?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Google%20Meet-1f212b?style=for-the-badge&logo=google-meet&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/mac%20os-1f212b?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Sketch-1f212b?style=for-the-badge&logo=sketch&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Zoom-1f212b?style=for-the-badge&logo=zoom&logoColor=white"/></a>
 
 ### **To get in touch:**
 
