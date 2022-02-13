@@ -4,13 +4,10 @@
 
 ### **About me**
 
-#### * Currently living in Portland, Oregon
-
-#### * Creative with a background in visual art
-
-#### * Lover of all things outdoors
-
-#### * Husband and cat dad
+#### • Currently living in Portland, Oregon
+#### • Creative with a background in visual art
+#### • Lover of all things outdoors
+#### • Husband and cat dad
 
 ### I’m enrolled in a web and mobile app certificate program through <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
 
