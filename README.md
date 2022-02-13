@@ -7,16 +7,16 @@
 <a><img src="https://img.shields.io/badge/C%23-1f212b?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1f212b?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/GIT-1f212b?style=for-the-badge&logo=git&logoColor=E44C30"/></a>
-<a><img src="https://img.shields.io/badge/GitHub-1f212b?style=for-the-badge&logo=github&logoColor=100000"/></a>
+<a><img src="https://img.shields.io/badge/GitHub-1f212b?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-1f212b?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-1f212b?style=for-the-badge&logo=javascript&logoColor=323330"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-1f212b?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Jest-1f212b?style=for-the-badge&logo=jest&logoColor=C21325"/></a>
 <a><img src="https://img.shields.io/badge/json-1f212b?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
 <a><img src="https://img.shields.io/badge/jQuery-1f212b?style=for-the-badge&logo=jquery&logoColor=0769AD"/></a>
 <a><img src="https://img.shields.io/badge/Markdown-1f212b?style=for-the-badge&logo=markdown&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-1f212b?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
 <a><img src="https://img.shields.io/badge/npm-1f212b?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
-<a><img src="https://img.shields.io/badge/React-1f212b?style=for-the-badge&logo=react&logoColor=20232A"/></a>
+<a><img src="https://img.shields.io/badge/React-1f212b?style=for-the-badge&logo=react&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-1f212b?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-1f212b?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
@@ -30,7 +30,7 @@
 <a><img src="https://img.shields.io/badge/Adobe%20Photoshop-1f212b?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF"/></a>
 <a><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1f212b?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF"/></a>
 <a><img src="https://img.shields.io/badge/Audacity-1f212b?style=for-the-badge&logo=audacity&logoColor=0000CC"/></a>
-<a><img src="https://img.shields.io/badge/blender-%1f212b?style=for-the-badge&logo=blender&logoColor=23F5792A"/></a>
+<a><img src="https://img.shields.io/badge/blender-%1f212b?style=for-the-badge&logo=blender&logoColor=23F579"/></a>
 <a><img src="https://img.shields.io/badge/Discord-1f212b?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
 <a><img src="https://img.shields.io/badge/Google%20Meet-1f212b?style=for-the-badge&logo=google-meet&logoColor=00897B"/></a>
 <a><img src="https://img.shields.io/badge/mac%20os-1f212b?style=for-the-badge&logo=apple&logoColor=white"/></a>
