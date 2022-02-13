@@ -4,8 +4,8 @@
 
 ### **Coding skills:**
 
-<a><img src="https://img.shields.io/badge/C%23-1f212b?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/CSS3-1f212b?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C%23-1f212b?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
+<a><img src="https://img.shields.io/badge/CSS3-1f212b?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
 <a><img src="https://img.shields.io/badge/GIT-1f212b?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GitHub-1f212b?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/HTML5-1f212b?style=for-the-badge&logo=html5&logoColor=white"/></a>
