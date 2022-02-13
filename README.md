@@ -9,10 +9,10 @@
 #### • Lover of all things outdoors
 #### • Husband and cat dad
 
-### I’m enrolled in a web and mobile app certificate program through <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
+### Enrolled in a web and mobile app certificate program through <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
 
 ### **Coding skills:**
-
+```
 <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -27,7 +27,7 @@
 <a><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/></a>```
 
 ### **Software skills:**
 
