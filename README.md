@@ -1,16 +1,16 @@
 # **Hello! I'm John Whitten** ✨🐢
 
-## I'm an artist, designer, educator, and web developer.
+## Artist | Designer | Educator | Web Developer
 
 ### **About me**
 
-#### ☔ Currently living in Portland, Oregon<br>
+#### * Currently living in Portland, Oregon
 
-#### 📸 Creative with a background in visual art<br>
+#### * Creative with a background in visual art
 
-#### 🏕️ Lover of all things outdoors<br>
+#### * Lover of all things outdoors
 
-#### 😺 Husband and cat dad<br>
+#### * Husband and cat dad
 
 ### I’m enrolled in a web and mobile app certificate program through <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.
 
