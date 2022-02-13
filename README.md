@@ -37,7 +37,7 @@
 <a><img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
 
-## **To get in touch:**
+## **Contact:**
 
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
