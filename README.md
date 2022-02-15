@@ -1,7 +1,6 @@
 # **Hello! I'm John Whitten** ✨🐢
 
 ## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development.
-#### I live in Portland, Oregon. pronouns: (he/him)
 
 ## **Coding skills:**
 
