@@ -15,6 +15,7 @@
 <a><img src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
 <a><img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=0769AD"/></a>
 <a><img src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=005C84"/></a>
 <a><img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=512BD4"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
 <a><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
