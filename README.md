@@ -49,7 +49,7 @@
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
 ## **Creative Portfolio:**
-&nbsp; <a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a><figcaption style="font-size: 6px;"  > Personal Portfolio </figcaption>
+&nbsp; <a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a>
 
 ## **Coding stats:**
 
