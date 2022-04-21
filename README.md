@@ -1,4 +1,4 @@
-# <p align="center"> ![logo](./img/31.png) &nbsp; ![logo](./img/1.png) &nbsp; ![logo](./img/11.png) &nbsp; **Hello! I'm John Whitten** &nbsp; ![logo](./img/87.png) &nbsp; ![logo](./img/40.png) &nbsp; ![logo](./img/81.png)</p>
+# <p align="center"> ![logo](./img/31.png) &nbsp; ![logo](./img/40.png) &nbsp; ![logo](./img/11.png) &nbsp; **Hello! I'm John Whitten** &nbsp; ![logo](./img/87.png) &nbsp; ![logo](./img/1.png) &nbsp; ![logo](./img/81.png)</p>
 
 ## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development.
 
