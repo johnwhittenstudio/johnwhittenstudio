@@ -48,6 +48,9 @@
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
+## **Creative Portfolio:**
+<a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a>
+
 ## **Coding stats:**
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
