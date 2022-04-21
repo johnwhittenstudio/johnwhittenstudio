@@ -1,4 +1,4 @@
-# **Hello! I'm John Whitten** ✨🐢
+# <p align="center"> ![logo](./img/1.png)![logo](./img/11.png.png)![logo](./img/31.png.png)  **Hello! I'm John Whitten** ![logo](./img/40.png.png)![logo](./img/8.png.png)![logo](./img/81.png.png)![logo](./img/87.png)</p>
 
 ## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development.
 
