@@ -56,6 +56,7 @@
 
 <br />
 <br />
+
 ## **Creative Portfolio:**
 &nbsp; <a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a>
 <br>
