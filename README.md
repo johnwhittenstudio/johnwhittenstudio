@@ -1,4 +1,4 @@
-# <p align="center"> ![logo](./img/87.png) &nbsp; &nbsp; &nbsp; **Hello! I'm John Whitten** &nbsp; &nbsp; &nbsp; ![logo](./img/81.png) </p>
+# <p align="center"> **Hello! I'm John Whitten** </p>
 
 
 ## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
