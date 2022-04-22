@@ -1,6 +1,7 @@
-# <p align="center"> ![logo](./img/87.png) &nbsp; ![logo](./img/40.png) &nbsp; ![logo](./img/31.png) &nbsp;&nbsp; **Hello! I'm John Whitten** &nbsp;&nbsp; ![logo](./img/11.png) &nbsp; ![logo](./img/1.png) &nbsp; ![logo](./img/81.png)</p>
+# <p align="center"> ![logo](./img/87.png) &nbsp; &nbsp; &nbsp; **Hello! I'm John Whitten** &nbsp; &nbsp; &nbsp; ![logo](./img/81.png) </p>
 
-## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development.
+
+## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
 
 ## **Coding skills:**
 
@@ -22,6 +23,7 @@
 <a><img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>
 <a><img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/></a>
 <a><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=85EA2D"/></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
@@ -37,9 +39,11 @@
 <a><img src="https://img.shields.io/badge/Audacity-white?style=for-the-badge&logo=audacity&logoColor=225bff"/></a>
 <a><img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=F15B2A"/></a>
 <a><img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<a><img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E"/></a>
 <a><img src="https://img.shields.io/badge/Google%20Meet-white?style=for-the-badge&logo=google-meet&logoColor=00897B"/></a>
 <a><img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
+<a><img src="https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=4A154B"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
 
 ## **Contact:**
@@ -47,17 +51,14 @@
 <a href="https://www.linkedin.com/in/johnwhitten-studio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:johnwhitten.studio@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 <a href="https://www.instagram.com/john.whitten/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
-
+<a href="https://www.youtube.com/channel/UC-V6tMaHcYExkqCy-NWzTxQ"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 
 ## **Coding stats:**
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=johnwhittenstudio&show_icons=true&theme=tokyonight" />
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwhittenstudio&layout=compact&theme=tokyonight" /><br>
-<br>
-<br>
-&nbsp;
-&nbsp;
 
+<!-- 
 ## **Creative Portfolio:**
-&nbsp; <a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a>
 
+&nbsp; <a href="https://www.johnwhitten.com/"><img alt="Personal Portfolio" src="./img/TS2_01.gif "/></a> -->
