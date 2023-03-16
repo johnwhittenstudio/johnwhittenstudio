@@ -47,6 +47,7 @@
 <a><img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
 <a><img src="https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=4A154B"/></a>
+<a><img src="https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=0052CC"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
 
 ## **Contact:**
