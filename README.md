@@ -21,10 +21,10 @@
 <a><img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
 <a><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
 <a><img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>
-<a><img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/></a>
-<a><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=85EA2D"/></a>
-<a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
+<a><img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=85EA2D"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
 <img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
 
 ## **Software skills:**
