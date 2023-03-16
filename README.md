@@ -1,7 +1,7 @@
 # <p align="center"> **Hello! I'm John Whitten** </p>
 
 
-## <p align="center"> I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning web and mobile app development. </p>
+## <p align="center"> I'm a visual artist, designer, and full-stack web developer. </p>
 
 ## **Coding skills:**
 
@@ -25,7 +25,7 @@
 <a><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a><img src="https://img.shields.io/badge/Swagger-white?style=for-the-badge&logo=Swagger&logoColor=85EA2D"/></a>
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
-<a><img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
+<img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
 
 ## **Software skills:**
 
