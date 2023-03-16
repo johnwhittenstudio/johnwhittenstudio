@@ -20,6 +20,7 @@
 <a><img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=512BD4"/></a>
 <a><img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
 <a><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
+<img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php&logoColor=777BB4"/>
 <a><img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>
 <a><img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/>
