@@ -2,7 +2,7 @@
 
 
 ## <p align="center"> I'm a visual artist, designer, and full-stack web developer. </p>
-## <p align="center"> View my dev portfolio at <a href="http://johnwhittenstudio.com/">www.johnwhittenstudio.com</a>.</p>
+### <p align="center"> View my dev portfolio at <a href="http://johnwhittenstudio.com/">www.johnwhittenstudio.com</a>.</p>
 
 ## **Coding skills:**
 
